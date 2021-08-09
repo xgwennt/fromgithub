@@ -1,2 +1,3 @@
 test:
-  script: 'echo this is for test!'
+  script:
+    - 'echo this is for test!'
